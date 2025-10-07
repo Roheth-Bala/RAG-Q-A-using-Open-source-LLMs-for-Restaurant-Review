@@ -1,2 +1,4 @@
-"venv/" 
-"chrome_langchain_db/" 
+venv/
+chrome_langchain_db/
+__pycache__/
+*.pyc
